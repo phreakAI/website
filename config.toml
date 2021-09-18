@@ -1,0 +1,31 @@
+baseURL = 'https://www.phreak.ai/'
+languageCode = 'en-us'
+title = 'phreakAI'
+theme = "ananke"
+[params]
+  description ="A collective of hackers working to open source infosec AI research."
+  site_logo="/images/logo.png"
+  favicon="/favicon.ico"
+  env = "production"
+  contact_email="contact@phreak.ai"
+  sitename = "phreakAI"
+  [[params.socialIcons]]
+      name="discord"
+      url="https://discord.gg/MpH97YZNFH"
+  [[params.socialIcons]]
+      name="github"
+      url="https://github.com/phreakAI"
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 4
+
