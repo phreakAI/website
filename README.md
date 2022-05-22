@@ -1,1 +1,3 @@
 # website
+
+Hugo generated website.
