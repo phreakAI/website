@@ -34,6 +34,6 @@ From this it seems clear that without making large, representative, shareable da
 
 I don't think that's healthy. 
 
-PhreakAI will be following [EleutherAI's inspiration with the pile](https://pile.eleuther.ai/) in attempting to gather and host large datasets for infosec. Malware classsification, and eventually red team/web. We will contact rights holders and determine if we can get some legitimate kind of research exception to provide these raw binaries. If that won't work, we'll stick with PEs created from open-source code. This might not quite match the [inference distribution](https://en.wikipedia.org/wiki/Reality), but it would be a start. 
+PhreakAI will be following [EleutherAI's inspiration with the pile](https://pile.eleuther.ai/) in gathering and hosting large datasets for infosec. These might not quite match the [inference distribution](https://en.wikipedia.org/wiki/Reality), but it would be a start.
 
 If you're interested, join the PhreakAI Discord. It might be fun. 
